@@ -1,0 +1,18 @@
+.square {
+  width: 36px;
+  height: 36px;
+  background-color: darkcyan;
+  border: 1px solid white;
+}
+
+.row {
+  display: flex;
+}
+
+.set-ships-mode {
+  cursor: cell;
+}
+
+.ship {
+  background-color: yellow;
+}
